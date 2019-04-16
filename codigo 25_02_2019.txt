@@ -1,0 +1,49 @@
+eclipse java
+android studio
+
+programar java en google crhome
+repl.it java
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		//int [] puntajes = {1,2,3,4,5,6,7,8,9,10};
+		String[][] puntajes = {{"7", "Santiago", "angel"},{"8", "Pedro", "princi"}};
+		System.out.println(puntajes[1][2]);
+		
+		boolean trampa=true;
+		boolean dono_dinero=true;
+		
+		double doble=5;
+		
+		String cadena= "5";
+		
+		
+		char caracter='5';
+		float flotante= 5f;
+		//boolean booleano = (puntaje >=1000 && !trampa) || dono_dinero;
+		
+		
+		//System.out.println(booleano);
+		
+		//System.out.println("entero");
+		//System.out.println(entero);
+		//System.out.println("\n");
+		//System.out.println("doble");
+		//System.out.println(doble);
+		//System.out.println("\n");
+		//System.out.println("cadena");
+		//System.out.println(cadena);
+		//System.out.println("\n");
+		//System.out.println("caracter");
+		//System.out.println(caracter);
+		//System.out.println("\n");
+		//System.out.println("flotante");
+		//System.out.println(flotante);
+		//System.out.println("\n");
+		//System.out.println("flotante");
+		//System.out.println(booleano);
+	}
+
+}
